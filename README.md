@@ -1,33 +1,19 @@
-# Project Title
+# mobile-gacha-rpg-design
 
-A brief description of your project.
+**Category:** mobile  
+**Status:** Active Development
 
-## Installation
+True
 
-Clone the repo and (optionally) create a virtual environment:
+## Overview
 
-```bash
-python -m venv .venv
-source .venv/bin/activate  # macOS / Linux
-.\.venv\Scripts\Activate   # Windows (PowerShell)
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-```
+See repository files for implementation details.
 
-## Usage
+## Quick Links
+- [Issues](https://github.com/VpkDevs/mobile-gacha-rpg-design/issues)
+- [Pull Requests](https://github.com/VpkDevs/mobile-gacha-rpg-design/pulls)
+- [Discussions](https://github.com/VpkDevs/mobile-gacha-rpg-design/discussions)
 
-Run unit tests with:
+---
 
-```bash
-python -m unittest discover -s tests
-```
-
-## Contributing
-
-- Follow the `AGENT-INITIALIZE.prompt` process for analysis and planning when proposing larger work.
-- Use the PR template (`.github/PULL_REQUEST_TEMPLATE.md`) and ensure tests pass locally before opening a PR.
-- Keep design docs concise and update the relevant `*.md` files when making changes that affect game design.
-
-## CI
-
-A GitHub Actions workflow runs unit tests on push and PRs (`.github/workflows/python-tests.yml`).
+*Part of [VpkDevs](https://github.com/VpkDevs) workspace. Created with Claude Code.*
